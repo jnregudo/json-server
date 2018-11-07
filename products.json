@@ -1,53 +1,82 @@
-{
-    "product": [
-        {
-            "productName": "NIKE MILER",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png"
-        },
-        {
-            "productName": "MENS SOCCER JERSEY",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "https://img.nike.com.hk/resources/product/AA1545-611/AA1545-611_BL1.png"
-        },
-        {
-            "productName": "NIKE MILER",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
-        },
-        {
-            "productName": "NIKE MILER",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
-        },
-        {
-            "productName": "MENS SOCCER JERSEY",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "https://img.nike.com.hk/resources/product/AA1545-611/AA1545-611_BL1.png"
-        },
-        {
-            "productName": "NIKE MILER",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
-        },
-        {
-            "productName": "NIKE MILER",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-            "price": 249,
-            "rating": 4.2,
-            "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
-        }
-    ]
-}
+ [
+    {
+        "id": 1,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png"
+    },
+    {
+        "id": 2,
+        "productName": "MENS SOCCER JERSEY",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "https://img.nike.com.hk/resources/product/AA1545-611/AA1545-611_BL1.png"
+    },
+    {
+        "id": 3,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
+    },
+    {
+        "id": 4,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
+    },
+    {
+        "id": 5,
+        "productName": "MENS SOCCER JERSEY",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "https://img.nike.com.hk/resources/product/AA1545-611/AA1545-611_BL1.png"
+    },
+    {
+        "id": 6,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
+    },
+    {
+        "id": 7,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
+    },
+    {
+        "id": 8,
+        "productName": "MENS SOCCER JERSEY",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "https://img.nike.com.hk/resources/product/AA1545-611/AA1545-611_BL1.png"
+    },
+    {
+        "id": 9,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
+    },
+    {
+        "id": 10,
+        "productName": "NIKE MILER",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "price": 249,
+        "rating": 4.2,
+        "productImage": "'https://img.nike.com.hk/resources/product/928648-494/928648-494_BL1.png'"
+    }
+]
